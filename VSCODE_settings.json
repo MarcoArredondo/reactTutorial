@@ -1,0 +1,49 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "html.format.indentInnerHtml": true,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "name": {
+        "highlight": "rgba(180, 20, 80, 0.5)"
+      },
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 2px",
+          "borderStyle": "dotted",
+          "borderColor": "#00ff1a",
+          "borderRadius": "5px",
+          "overviewRulerColor": "#fffb00"
+        }
+      }
+    },
+    "closing": {
+      "name": {
+        "highlight": "rgba(180, 20, 80, 0.5)"
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 2px 0 0",
+          "borderStyle": "dotted",
+          "borderColor": "#00ff1a",
+          "borderRadius": "5px",
+          "overviewRulerColor": "#fffb00"
+        }
+      }
+    }
+  },
+  "editor.mouseWheelZoom": true,
+  "php.validate.executablePath": "",
+  "eslint.validate": ["javascript", "javascriptreact", "vue"],
+  "window.zoomLevel": 0,
+  "files.trimFinalNewlines": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
